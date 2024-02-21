@@ -10,6 +10,21 @@ Create an `InteractiveCalculator` React component that will render a calculator 
 The component will display a calculator component that looks like the following:
 ![Demo calculator](./assets/demo.png "Calculator")
 
+### Pahse 1: Design the calculator
+
+### Phase 2: Make the buttons clickable
+
+### Phase 3: Show the first number in the display
+
+### Phase 4: Show the operator in the display
+
+### Phase 5: Show the second number in the display
+
+### Phase 6: Show the result in the display
+
+### Phase 7: Make the reset button work
+
+
 ## Tips and best practices
 - Components should live inside a `components` folder.
 - Each component should have its own file with the file name matching the component's name
